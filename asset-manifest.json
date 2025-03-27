@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GeoMetricX-/static/css/main.fc0048cd.css",
+    "main.js": "/GeoMetricX-/static/js/main.f729e48e.js",
+    "static/js/453.bc1bfffa.chunk.js": "/GeoMetricX-/static/js/453.bc1bfffa.chunk.js",
+    "index.html": "/GeoMetricX-/index.html",
+    "main.fc0048cd.css.map": "/GeoMetricX-/static/css/main.fc0048cd.css.map",
+    "main.f729e48e.js.map": "/GeoMetricX-/static/js/main.f729e48e.js.map",
+    "453.bc1bfffa.chunk.js.map": "/GeoMetricX-/static/js/453.bc1bfffa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0048cd.css",
+    "static/js/main.f729e48e.js"
+  ]
+}
